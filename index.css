@@ -1,0 +1,12 @@
+#ab{
+    background-color: lightcoral;
+    color: black;
+    font-weight: 400;
+    font-family: 'Times New Roman', Times, serif;
+}
+.ab{
+    background-color: aquamarine;
+    color: maroon;
+    font-weight: 800;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
